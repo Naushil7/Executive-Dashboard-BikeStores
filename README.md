@@ -20,7 +20,3 @@ The dashboard includes:
 - **Revenue Trends**: See how revenue changes over time and by region.
 - **Top Performers**: Identify top products, brands, and sales representatives.
 - **Customer Behavior**: Understand who your top customers are and their purchasing patterns.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
