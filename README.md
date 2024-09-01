@@ -14,21 +14,21 @@ The Tableau dashboard provides an executive-level overview of key business metri
 1. **Revenue Trends**:
    - **Yearly Revenue**: A line chart showing revenue trends over the years (2016, 2017, 2018).
    - **Monthly Revenue**: A bar chart visualizing monthly revenue within each year.
-   - ![](/img/BarChart.png?raw=true)
+   - ![](/img/year_month_trend.png?raw=true)
 
 2. **Sales Performance by Region**:
    - **Revenue by State**: A map visualization highlighting revenue contributions from different states (e.g., NY, TX, CA).
    - **Revenue by Store**: A stacked bar chart displaying revenue by store, segmented by brands such as Trek, Electra, and Sun Bicycles.
-   - ![](/img/BarChart.png?raw=true)
+   - ![](/img/state_store_trend.png?raw=true)
 
 3. **Product Category Performance**:
    - **Revenue by Category**: A pie chart breaking down revenue by product categories, including Road Bikes, Mountain Bikes, and Electric Bikes.
-   - ![](/img/BarChart.png?raw=true)
+   - ![](/img/category_brand.png?raw=true)
 
 4. **Top Customers and Sales Representatives**:
    - **Top 10 Customers**: A list visualization of the top 10 customers by revenue, showing customer names and the total amount they contributed.
    - **Revenue per Sales Representative**: A bar chart showing the performance of sales representatives based on the revenue they generated.
-   - ![](/img/BarChart.png?raw=true)
+   - ![](/img/top_customer_and_sales_rep.png?raw=true)
 
 5. **Filters**:
    - **Date Range**: Allows filtering the visualizations based on specific time periods (year, month).
